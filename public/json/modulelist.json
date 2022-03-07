@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Email",
+        "price": "100 INR"
+    },
+    {
+        "name": "OTP",
+        "price": "200 INR"
+    },
+    {
+        "name": "Contact",
+        "price": "300 INR"
+    }
+]
